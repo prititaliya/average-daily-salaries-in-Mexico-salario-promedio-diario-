@@ -1,4 +1,5 @@
-First of all Thank you for givig me this opportunity.
+This report I had prepared for the technical assessment as Naos BlockChain capital.
+
 
 I have prepared this report in a rush so there might be misinterpretation of data.
 
