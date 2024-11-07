@@ -1,6 +1,6 @@
 This report I had prepared for the technical assessment as Naos BlockChain capital.
 
-
+ 
 I have prepared this report in a rush so there might be misinterpretation of data.
 
 1) I have consider two rows from ce2019_nac.csv as average salary I consider A747A as average salary for operational worker and A748A as average salary for administrative workers, I found those columns from diccionario_de_datos_ce2019.csv (now i would refer it as main dataset). 
